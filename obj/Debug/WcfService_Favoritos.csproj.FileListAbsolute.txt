@@ -1,0 +1,11 @@
+D:\WebSite2\WcfService_Favoritos\bin\Debug\WcfService_Favoritos.dll.config
+D:\WebSite2\WcfService_Favoritos\bin\Debug\WcfService_Favoritos.dll
+D:\WebSite2\WcfService_Favoritos\bin\Debug\WcfService_Favoritos.pdb
+D:\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.csproj.CoreCompileInputs.cache
+D:\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.dll
+D:\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.pdb
+D:\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.csprojResolveAssemblyReference.cache
+G:\Cosas Formación Sinensia\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.csprojResolveAssemblyReference.cache
+G:\Cosas Formación Sinensia\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.csproj.CoreCompileInputs.cache
+G:\Cosas Formación Sinensia\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.dll
+G:\Cosas Formación Sinensia\WebSite2\WcfService_Favoritos\obj\Debug\WcfService_Favoritos.pdb
